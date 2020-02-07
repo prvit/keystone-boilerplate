@@ -6,7 +6,7 @@ You probably want to add Lists, Authentication, Access control and a front-end a
 
 ## Running the Project.
 
-Clone this repo using git clone --depth=1 https://github.com/prvit/keystone-boilerplate.git <YOUR_PROJECT_NAME>
+Clone this repo using ```git clone --depth=1 https://github.com/prvit/keystone-boilerplate.git <YOUR_PROJECT_NAME>```
 To run this project first run `yarn install` then `yarn dev`.
 Once running the Keystone Admin UI is reachable via: `localhost:3000/admin`.
 
